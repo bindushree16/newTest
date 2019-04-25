@@ -1,7 +1,7 @@
 resources:
   - name: gitrepo_res
     type: gitRepo
-    repoPath: ChaitanyaVootla/newTest
+    repoPath: bindushree16/newTest
     configuration:
       integrationName: git
       branches:
